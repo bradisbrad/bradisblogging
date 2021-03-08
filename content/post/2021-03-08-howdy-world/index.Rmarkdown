@@ -1,0 +1,20 @@
+---
+title: Howdy World
+author: ''
+date: '2021-03-08'
+slug: howdy-world
+categories: []
+tags: []
+subtitle: ''
+summary: 'Some things are easier than others.'
+authors: []
+lastmod: '2021-03-08T13:01:07-06:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+And then we also need to change some settings, but this is a starter pack.
